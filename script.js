@@ -45,7 +45,7 @@ function initGame(e) {
 
     setTimeout(() => {
         if(correctLetters.length === word.length) {
-            alert(`Congratulations! You guessed the correct word ${word.toUpperCase()}`);
+            alert(`Congratulations! The correct word is ${word.toUpperCase()}`);
             return randomWord();
         } else if(maxGuesses < 1) {
             alert("Game over! You don't have remaining guesses, Reset the game!!!");
