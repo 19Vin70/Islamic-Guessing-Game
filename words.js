@@ -5,7 +5,7 @@ let wordList = [
     },
     {
         word: "allah",
-        clue: "The one.and only God"
+        clue: "The one and only God"
     },
     {
         word: "muhammad",
@@ -48,8 +48,8 @@ let wordList = [
         clue: "The youngest wife of.prophet Muhammad"
     },
     {
-        word: "fatimah",
-        clue: "Wife.of Ali"
+        word: "fatima",
+        clue: "Wife of Ali"
     },
     {
         word: "ibrahim",
